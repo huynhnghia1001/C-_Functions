@@ -1,0 +1,8 @@
+E:\C#\8_5_2023\C# Functions\Returning multiple values\Returning multiple values\bin\Debug\Returning multiple values.exe.config
+E:\C#\8_5_2023\C# Functions\Returning multiple values\Returning multiple values\bin\Debug\Returning multiple values.exe
+E:\C#\8_5_2023\C# Functions\Returning multiple values\Returning multiple values\bin\Debug\Returning multiple values.pdb
+E:\C#\8_5_2023\C# Functions\Returning multiple values\Returning multiple values\obj\Debug\Returning multiple values.csproj.AssemblyReference.cache
+E:\C#\8_5_2023\C# Functions\Returning multiple values\Returning multiple values\obj\Debug\Returning multiple values.csproj.SuggestedBindingRedirects.cache
+E:\C#\8_5_2023\C# Functions\Returning multiple values\Returning multiple values\obj\Debug\Returning multiple values.csproj.CoreCompileInputs.cache
+E:\C#\8_5_2023\C# Functions\Returning multiple values\Returning multiple values\obj\Debug\Returning multiple values.exe
+E:\C#\8_5_2023\C# Functions\Returning multiple values\Returning multiple values\obj\Debug\Returning multiple values.pdb

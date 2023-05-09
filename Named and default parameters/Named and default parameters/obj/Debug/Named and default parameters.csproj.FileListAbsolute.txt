@@ -1,0 +1,8 @@
+E:\C#\8_5_2023\C# Functions\Named and default parameters\Named and default parameters\bin\Debug\Named and default parameters.exe.config
+E:\C#\8_5_2023\C# Functions\Named and default parameters\Named and default parameters\bin\Debug\Named and default parameters.exe
+E:\C#\8_5_2023\C# Functions\Named and default parameters\Named and default parameters\bin\Debug\Named and default parameters.pdb
+E:\C#\8_5_2023\C# Functions\Named and default parameters\Named and default parameters\obj\Debug\Named and default parameters.csproj.AssemblyReference.cache
+E:\C#\8_5_2023\C# Functions\Named and default parameters\Named and default parameters\obj\Debug\Named and default parameters.csproj.SuggestedBindingRedirects.cache
+E:\C#\8_5_2023\C# Functions\Named and default parameters\Named and default parameters\obj\Debug\Named and default parameters.csproj.CoreCompileInputs.cache
+E:\C#\8_5_2023\C# Functions\Named and default parameters\Named and default parameters\obj\Debug\Named and default parameters.exe
+E:\C#\8_5_2023\C# Functions\Named and default parameters\Named and default parameters\obj\Debug\Named and default parameters.pdb

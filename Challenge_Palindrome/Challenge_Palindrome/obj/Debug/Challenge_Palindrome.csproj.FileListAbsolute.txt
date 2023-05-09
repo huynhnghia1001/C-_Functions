@@ -1,0 +1,3 @@
+E:\C#\8_5_2023\C# Functions\Challenge_Palindrome\Challenge_Palindrome\obj\Debug\Challenge_Palindrome.csproj.AssemblyReference.cache
+E:\C#\8_5_2023\C# Functions\Challenge_Palindrome\Challenge_Palindrome\obj\Debug\Challenge_Palindrome.csproj.SuggestedBindingRedirects.cache
+E:\C#\8_5_2023\C# Functions\Challenge_Palindrome\Challenge_Palindrome\obj\Debug\Challenge_Palindrome.csproj.CoreCompileInputs.cache

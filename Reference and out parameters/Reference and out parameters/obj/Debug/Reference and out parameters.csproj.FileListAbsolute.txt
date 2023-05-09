@@ -1,0 +1,8 @@
+E:\C#\8_5_2023\C# Functions\Reference and out parameters\Reference and out parameters\bin\Debug\Reference and out parameters.exe.config
+E:\C#\8_5_2023\C# Functions\Reference and out parameters\Reference and out parameters\bin\Debug\Reference and out parameters.exe
+E:\C#\8_5_2023\C# Functions\Reference and out parameters\Reference and out parameters\bin\Debug\Reference and out parameters.pdb
+E:\C#\8_5_2023\C# Functions\Reference and out parameters\Reference and out parameters\obj\Debug\Reference and out parameters.csproj.AssemblyReference.cache
+E:\C#\8_5_2023\C# Functions\Reference and out parameters\Reference and out parameters\obj\Debug\Reference and out parameters.csproj.SuggestedBindingRedirects.cache
+E:\C#\8_5_2023\C# Functions\Reference and out parameters\Reference and out parameters\obj\Debug\Reference and out parameters.csproj.CoreCompileInputs.cache
+E:\C#\8_5_2023\C# Functions\Reference and out parameters\Reference and out parameters\obj\Debug\Reference and out parameters.exe
+E:\C#\8_5_2023\C# Functions\Reference and out parameters\Reference and out parameters\obj\Debug\Reference and out parameters.pdb

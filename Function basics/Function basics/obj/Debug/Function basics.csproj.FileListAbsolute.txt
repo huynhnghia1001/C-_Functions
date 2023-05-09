@@ -1,0 +1,8 @@
+E:\C#\8_5_2023\C# Functions\Function basics\Function basics\bin\Debug\Function basics.exe.config
+E:\C#\8_5_2023\C# Functions\Function basics\Function basics\bin\Debug\Function basics.exe
+E:\C#\8_5_2023\C# Functions\Function basics\Function basics\bin\Debug\Function basics.pdb
+E:\C#\8_5_2023\C# Functions\Function basics\Function basics\obj\Debug\Function basics.csproj.AssemblyReference.cache
+E:\C#\8_5_2023\C# Functions\Function basics\Function basics\obj\Debug\Function basics.csproj.SuggestedBindingRedirects.cache
+E:\C#\8_5_2023\C# Functions\Function basics\Function basics\obj\Debug\Function basics.csproj.CoreCompileInputs.cache
+E:\C#\8_5_2023\C# Functions\Function basics\Function basics\obj\Debug\Function basics.exe
+E:\C#\8_5_2023\C# Functions\Function basics\Function basics\obj\Debug\Function basics.pdb
